@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@alchemy/aa-accounts": "^3.19.0",
-    "@alchemy/aa-alchemy": "^3.18.0",
+    "@alchemy/aa-alchemy": "^3.19.0",
     "@alchemy/aa-core": "^3.19.0",
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-avatar": "^1.1.0",
